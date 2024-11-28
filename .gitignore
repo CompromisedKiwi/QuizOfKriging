@@ -1,0 +1,4 @@
+*.ply
+/resources
+/cmake-build-debug
+/.idea
